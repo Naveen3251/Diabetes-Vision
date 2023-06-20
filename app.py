@@ -50,6 +50,7 @@ def predict():
         append_to_patient_record_csv(id, sex, selected_date, eye_part)
     # if predict button is pressed
     if st.button("Predict"):
+        #to store data in csv and image db
         get_result_for_single_image(id)  # redirects to recognise.py
         response = generateReport(id)  # # redirects to get_report.py
         render_report(response)  # Call the render_report function in this file
@@ -116,8 +117,6 @@ def dashboard():
     runbatch = st.button("Run batch inference")
 
     if runbatch:
-        #---------------
-        #get_result()  # Call the get_result function
         data = pd.read_csv('out_csv.csv')  # Replace with your own file path
 
         # Generate pandas profiling report
