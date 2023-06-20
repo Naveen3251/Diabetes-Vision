@@ -6,12 +6,12 @@ https://drive.google.com/file/d/1FJjuiGvBnnLU2LjFoE5txcWb7r2bzBif/view
 
 # To run Apllication
 1.Install all the requirements by running this command in terminal
-```shell
-pip install -r requirements.txt'''
 
+pip install -r requirements.txt
+\n
 2.Run the app typing this command in terminal
-```shell
-streamlit run app.py'''
+
+streamlit run app.py
 
 # Explanation
 Read blog
