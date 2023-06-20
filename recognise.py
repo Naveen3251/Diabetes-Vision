@@ -31,8 +31,6 @@ def preprocess_image(image_path):
 
 def get_result_for_single_image(patientid):
     model = load_model('best_model.h5')  # Load the saved model
-    # Initialize an empty list to store the predicted labels
-    predicted_labels = []
     # Create a Path object for the image path
     image_path = pathlib.Path(f"image Database/{patientid}.png")
     # Preprocess the image
