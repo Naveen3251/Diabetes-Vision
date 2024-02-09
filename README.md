@@ -4,7 +4,7 @@ Our AI-based solution is a game-changer in retinopathy diagnosis, offering not o
 https://drive.google.com/file/d/1jI-Q8coJpodsgqacT7_aCTnUx59y_jWG/view?usp=drive_link
 
 # Model Link 
-https://drive.google.com/file/d/1FJjuiGvBnnLU2LjFoE5txcWb7r2bzBif/view
+[https://drive.google.com/file/d/1FJjuiGvBnnLU2LjFoE5txcWb7r2bzBif/view](https://drive.google.com/file/d/1FJjuiGvBnnLU2LjFoE5txcWb7r2bzBif/view](https://drive.google.com/file/d/1XczEUW3o-JUnmV1V40TkSW025zk_yFf4/view?usp=sharing))
 
 # To run Apllication
 1.Install all the requirements by running this command in terminal
