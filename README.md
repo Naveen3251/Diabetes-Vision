@@ -9,11 +9,13 @@ https://drive.google.com/file/d/1XczEUW3o-JUnmV1V40TkSW025zk_yFf4/view?usp=drive
 # To run Apllication
 1.Install all the requirements by running this command in terminal
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 2.Run the app typing this command in terminal
 
-```streamlit run app.py
+```
+streamlit run app.py
 ```
 # Explanation
 Read blog
